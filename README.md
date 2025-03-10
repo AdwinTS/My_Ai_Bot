@@ -1,4 +1,4 @@
-# Google Gemini (2.4 Flash Model) Integration
+# Google Gemini (2.5 Flash Model) Integration
 
 This project demonstrates how to integrate the Google Gemini (2.4 Flash Model) using the Google Vertex AI API. It includes setting up authentication, making predictions, and securely managing API keys.
 
