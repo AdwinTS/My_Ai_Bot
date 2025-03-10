@@ -84,10 +84,7 @@ print(response.text)
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
 
----
 
 ## 👤 Author
 [Adwin T Sunil](https://github.com/yourusername)
