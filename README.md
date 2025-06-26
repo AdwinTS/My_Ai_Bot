@@ -27,7 +27,7 @@ This project demonstrates how to integrate the Google Gemini (2.4 Flash Model) u
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/google-gemini-integration.git
+git clone https://github.com/AdwinTS/google-gemini-integration.git
 cd google-gemini-integration
 ```
 
